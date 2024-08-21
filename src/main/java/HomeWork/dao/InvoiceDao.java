@@ -76,7 +76,6 @@ public class InvoiceDao implements Dao<Integer, Invoice>{
 
     @Override
     public void update(Invoice entity) {
-
     }
 
     @Override
